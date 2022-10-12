@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12801
-Fork on GitHub
-3270
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Nguyễn Chính</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
