@@ -15,11 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[<img src="https://images.credly.com/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="75">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
-[<img src="https://images.credly.com/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" width="75">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)
-[<img src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="75">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
-[<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="75">](https://www.credly.com/badges/5ea8e950-1f00-4880-8c8d-a0750bbe0ea5)
-
   
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chinhnguyen343/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chinh.34/) 
