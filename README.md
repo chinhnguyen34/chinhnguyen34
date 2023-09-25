@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Chinh</h1>
 <h3 align="center">🦉 On the walls we become two silhouettes</h3>
-<a href="https://www.facebook.com/chinhnguyen343/" target="_blank"> 
-<iframe src="https://giphy.com/embed/vJRxEYfxL0WAZB68pC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/storyful-harry-styles-james-corden-bike-ride-vJRxEYfxL0WAZB68pC">via GIPHY</a></p>
-
+<a href="https://www.facebook.com/chinhnguyen343/" target="_blank"> <img align="right" alt="Coding" width=400  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVnNHZ3ZnYwdGdwNHpqMHBib21qdjNyZGVjYm9vNHJhZ2tndHRwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"></a> 
 
 - 🔭 I’m currently working on **Hanoi Pedagogical University 2**
 
