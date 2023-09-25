@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Chinh</h1>
 <h3 align="center">🦉 vao day lam j </h3>
-> [![View count](https://visitcount.itsvg.in/api?id=lucthienphong1120&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=lucthienphong1120)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Backend+Developer;I'm+a+Full+Stack+Developer"></p>
