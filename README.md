@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Chinh</h1>
 <h3 align="center">🦉 On the walls we become two silhouettes</h3>
-<a href="https://www.facebook.com/chinhnguyen343/" target="_blank"> <img align="right" alt="Coding" width=200 height =270 src="https://media3.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif?cid=ecf05e477ctqk5d9fcwm6a389debxjn1182x39ahtn5ys8a6&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a> 
+<a href="https://www.facebook.com/chinhnguyen343/" target="_blank"> <img align="right" alt="Coding" width=350 height =230 src="https://media3.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif?cid=ecf05e477ctqk5d9fcwm6a389debxjn1182x39ahtn5ys8a6&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a> 
 
 - 🔭 I’m currently working on **Hanoi Pedagogical University 2**
 
