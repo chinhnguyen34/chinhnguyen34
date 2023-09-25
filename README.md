@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Nguyen Chinh</h1>
+<h3 align="center">🦉 On the walls we become two silhouettes</h3>
+<a href="https://www.facebook.com/chinhnguyen343/" target="_blank"> <img align="right" alt="Coding" width=400  src="https://giphy.com/clips/billions-showtime-episode-5-season-7-stZO3IFy7Iam7mnMMS"></a> 
+
+- 🔭 I’m currently working on **Hanoi Pedagogical University 2**
+
+- 🌱 I’m currently learning **Information Technology**
+
+- 📫 How to reach me **nguyenchinh34vt@gmail.com**
+
+- ⚡ Fun fact about me:  **Watch movies and play pubg is my favorite things after studying hard.**
+
+<h3 align="left">Connect with me:</h3>
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chinhnguyen343/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chinh.34/) 
 
