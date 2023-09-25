@@ -11,7 +11,7 @@
 - ⚡ Fun fact about me:  **Watch movies and play pubg is my favorite things after studying hard.**
 
 <h3 align="left">Connect with me:</h3>
-
+<p align="left">
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chinhnguyen343/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chinh.34/) 
 
