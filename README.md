@@ -1,7 +1,7 @@
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Backend+Developer;I'm+a+Full+Stack+Developer"></p>
-
 <h1 align="center">Hi 👋, I'm Nguyen Chinh</h1>
 <h3 align="center">🦉 On the walls we become two silhouettes</h3>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Backend+Developer;I'm+a+Full+Stack+Developer"></p>
+
 <a href="https://www.facebook.com/chinhnguyen343/" target="_blank"> <img align="right" alt="Coding" width=350 height =250 src="https://media3.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif?cid=ecf05e477ctqk5d9fcwm6a389debxjn1182x39ahtn5ys8a6&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a> 
 
 - 🔭 I’m currently working on **Hanoi Pedagogical University 2**
