@@ -2,7 +2,7 @@
 <h3 align="center">🦉 Buồn ngủ </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" style="padding-left=500px" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Backend+Developer;I'm+a+Full+Stack+Developer"></p>
+<p align="center" style="padding-left=700px" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Backend+Developer;I'm+a+Full+Stack+Developer"></p>
 
 <a href="https://www.facebook.com/chinhnguyen343/" target="_blank"> <img align="right" alt="Coding" width=350 height =250 src="https://media3.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif?cid=ecf05e477ctqk5d9fcwm6a389debxjn1182x39ahtn5ys8a6&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a> 
 
