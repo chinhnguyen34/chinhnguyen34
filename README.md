@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nguyenchinh34vt@gmail.com**
 
-- ⚡ Fun fact about me:  **Watch movies and play pubg is my favorite things after studying hard.**
+- ⚡ Fun fact about me:  **Watch movies and play game is my favorite things after studying hard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
