@@ -6,7 +6,7 @@
 
 <a href="https://www.facebook.com/chinhnguyen343/" target="_blank"> <img align="right" alt="Coding" width=350 height =250 src="https://media3.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif?cid=ecf05e477ctqk5d9fcwm6a389debxjn1182x39ahtn5ys8a6&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a> 
 
-- 🔭 i have a dream ****
+- 🔭 just ****
 
 - 🌱 I’m currently learning **Information Technology**
 
