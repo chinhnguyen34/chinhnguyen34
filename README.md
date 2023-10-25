@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Chinh</h1>
-<h3 align="center">🦉 Buồn ngủ </h3>
+<h3 align="center">🦉 Chỉ thế thôi à  </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Backend+Developer;I'm+a+Full+Stack+Developer"></p>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nguyenchinh34vt@gmail.com**
 
-- ⚡ Fun fact about me:  **Watch movies and play game is my favorite things after studying hard.**
+- ⚡ Fun fact about me:  **Watch movies  is my favorite thing after studying hard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
