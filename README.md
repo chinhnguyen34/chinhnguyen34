@@ -23,3 +23,34 @@
 [![](https://visitcount.itsvg.in/api?id=chinhnguyen34&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
