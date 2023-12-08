@@ -13,19 +13,6 @@
   - 🖥️ Website Developer
   - 📝 Writeups and Documenting
 
-[<img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100">](https://www.credly.com/badges/a6f3b169-ea7e-4883-a8e9-dd27c13e779f)
-[<img src="https://images.credly.com/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="100">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
-[<img src="https://images.credly.com/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" width="100">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)
-[<img src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="100">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
-[<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100">](https://www.credly.com/badges/5ea8e950-1f00-4880-8c8d-a0750bbe0ea5)
-[<img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" width="100">](https://www.credly.com/badges/2722e59a-26df-4d5c-b8e2-2601ce3a3928)
-[<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/249607c0f4516eac)
-[<img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/c6d70da18e9c6190)
-[<img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100">](https://www.credly.com/badges/b1ce341d-0d74-40cc-abf4-b5ca2cabed93)
-[<img src="https://images.credly.com/size/680x680/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png" width="100">](https://www.credly.com/badges/749bf565-dd4b-41bb-bc1e-04cc8a582832)
-[<img src="https://images.credly.com/size/680x680/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png" width="100">](https://www.credly.com/badges/90bef0cb-fe99-4b84-bf03-1323b1980b37)
-[<img src="https://images.credly.com/size/680x680/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png" width="100">](https://www.credly.com/badges/4ccbb8db-7371-4d6a-96dd-c2076fc6b761)
-
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
