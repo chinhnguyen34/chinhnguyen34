@@ -19,19 +19,6 @@
 
 <img src="https://raw.githubusercontent.com/chinhnguyen34/chinhnguyen34/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=chinhnguyen34&theme=radical" alt="Layout with last medium posts"  />
-</div>
-
-###
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chinhnguyen34&limit=5&theme=radical&combine_all_yearly_contributions=true)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ---
