@@ -1,8 +1,6 @@
 
 ### Hi there, I'm Nguyễn Chính ✔️
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+System+Engineer;I'm+a+DevSecOps Engineer"></p>
-
 - 🇻🇳 : I'm from VietNam
 - 📧 : Contact me at [nguyenchinh34vt@gmail.com](mailto:nguyenchinh34vt@gmail.com)
 - ❤️ : I'm passionate about:
