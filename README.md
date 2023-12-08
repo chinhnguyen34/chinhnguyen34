@@ -15,9 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinhnguyen34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🏆 GitHub Trophies
-<a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
-</a>
+![](https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
