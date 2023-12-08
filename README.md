@@ -17,8 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://raw.githubusercontent.com/chinhnguyen34/chinhnguyen34/output/snake.svg" alt="Snake animation" />
-
 
 
 ---
