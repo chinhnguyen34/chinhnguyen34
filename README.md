@@ -3,7 +3,12 @@
 <div style="text-align: center; color: #36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Xin+chào+!!!+Tôi+là+Chính" alt="Typing SVG">
 </div>
-
+<div style="text-align: center; color: #36BCF7FF;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security" alt="Typing SVG">
+</div>
+<div style="text-align: center; color: #36BCF7FF;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Scientist" alt="Typing SVG">
+</div>
 
 # 💫 About Me: 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
