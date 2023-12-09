@@ -1,3 +1,8 @@
+<div style="text-align: center; color: #36BCF7FF;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+System+Engineer;I'm+a+DevSecOps+Engineer" alt="Typing SVG">
+</div>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # 💫 About Me:
 - 📧 : Contact me at [nguyenchinh34vt@gmail.com](mailto:nguyenchinh34vt@gmail.com) <br>
@@ -40,5 +45,67 @@ Algorithm    30 mins         ▓▓░░░░░░░░░░░░░░░
 ---
 [![](https://visitcount.itsvg.in/api?id=chinhnguyen34&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinhnguyen34">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinhnguyen34&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://activity-graph.herokuapp.com/graph?username=chinhnguyen34">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=chinhnguyen34&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinhnguyen34">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinhnguyen34&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinhnguyen34&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinhnguyen34&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinhnguyen34">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinhnguyen34&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinhnguyen34">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinhnguyen34&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
