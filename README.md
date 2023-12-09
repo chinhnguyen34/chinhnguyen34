@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # 💫 About Me:
-❤️ : I'm passionate about:<br>🔐 Backend Scientist & Cyber Security<br>🪐 Operating Systems (Windows & Linux)<br>🖥️ Website Developer<br>📝 Writeups and Documenting
+- 📧 : Contact me at [nguyenchinh34vt@gmail.com](mailto:nguyenchinh34vt@gmail.com) <br>
+- ❤️ : I'm passionate about:<br>🔐 Backend Scientist & Cyber Security<br>🪐 Operating Systems (Windows & Linux)<br>🖥️ Website Developer<br>📝 Writeups and Documenting
 
 
 ## 🌐 Socials:
