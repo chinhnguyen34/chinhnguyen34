@@ -1,11 +1,14 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div style="text-align: center; color: #36BCF7FF;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+System+Engineer;I'm+a+DevSecOps+Engineer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Chào+cậu+!!!+Tớ+là+Chính" alt="Typing SVG">
 </div>
 
 
+# 💫 About Me: 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-# 💫 About Me:
-- 📧 : Contact me at [nguyenchinh34vt@gmail.com](mailto:nguyenchinh34vt@gmail.com) <br>
+
+- 📧 : Contact me at [nguyenchinh34vt@gmail.com](mailto:nguyenchinh34vt@gmail.com)
 - ❤️ : I'm passionate about:<br>🔐 Backend Scientist & Cyber Security<br>🪐 Operating Systems (Windows & Linux)<br>🖥️ Website Developer<br>📝 Writeups and Documenting
 
 
