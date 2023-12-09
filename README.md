@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # 💫 About Me:
-❤️ : I'm passionate about:<br>🔐 Cyber Security<br>🪐 Operating Systems (Windows & Linux)<br>🖥️ Website Developer<br>📝 Writeups and Documenting
+❤️ : I'm passionate about:<br>🔐 Backend Scientist & Cyber Security<br>🪐 Operating Systems (Windows & Linux)<br>🖥️ Website Developer<br>📝 Writeups and Documenting
 
 
 ## 🌐 Socials:
@@ -17,24 +17,24 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java         13 hrs 14 mins  ██████████████████████░░░   88.06 %
-Python       1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-JavaScript   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Dart         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Java         13 hrs 14 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   88.06 %
+Python       1 hr 4 mins     ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   07.13 %
+JavaScript   30 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Other        30 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Algorithm    30 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-[<img src="https://github-readme-stats.vercel.app/api?username=chinhnguyen34&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=chinhnguyen34)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinhnguyen34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[<img src="https://github-readme-stats.vercel.app/api?username=chinhnguyen34&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=chinhnguyen34)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinhnguyen34&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=chinhnguyen34)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<a href="https://github-profile-trophy.vercel.app/?username=chinhnguyen34" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chinhnguyen34&icon=1&color=1)](https://visitcount.itsvg.in)
