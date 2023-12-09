@@ -45,9 +45,6 @@ Algorithm    30 mins         ▓▓░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
 </a>
 
----
-[![](https://visitcount.itsvg.in/api?id=chinhnguyen34&icon=1&color=1)](https://visitcount.itsvg.in)
-
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
