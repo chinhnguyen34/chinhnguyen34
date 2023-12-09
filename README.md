@@ -22,8 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-📊 ##Tuần này tôi dành thời gian cho:##
-<!--START_SECTION:waka-->
+# 📊 **Tuần này tôi dành thời gian cho:**
 
 ```txt
 Java         13 hrs 14 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   88.06 %
