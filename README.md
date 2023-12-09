@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Xin+chào+!!!+Tôi+là+Chính" alt="Typing SVG">
 </div>
 <div style="text-align: center; color: #36BCF7FF;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security;Backend+Scientist" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+and+Backend+Scientist" alt="Typing SVG">
 </div>
 
 # 💫 About Me: 
