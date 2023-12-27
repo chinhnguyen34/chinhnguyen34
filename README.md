@@ -1,3 +1,7 @@
+# Tài khoản này ko còn hoạt động!
+# Hiện tại tôi không còn theo đuổi lập trình viên :(( Xin lỗi
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="text-align: center; color: #36BCF7FF;">
@@ -6,11 +10,6 @@
 <div style="text-align: center; color: #36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Scientist+/+Cyber+Security" alt="Typing SVG"> 
 </div>
-<div style="text-align: center; color: #36BCF7FF;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hiện+tại" alt="Typing SVG"> 
-     <img src="https://readme-typing-svg.herokuapp.com?lines=Hiện+tại" alt="Typing SVG"> 
-</div>
-
 # 💫 About Me: 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
