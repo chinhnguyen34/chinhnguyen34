@@ -1,5 +1,5 @@
-# Tài khoản này không còn hoạt động!
-# Hiện tại tôi không còn theo đuổi lập trình viên. Xin lỗi
+# This account is no longer active!
+# Currently, I am no longer pursuing a programmer. Sorry
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
