@@ -4,10 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Xin+chào+!!!+Tôi+là+Chính" alt="Typing SVG">
 </div>
 <div style="text-align: center; color: #36BCF7FF;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hiện+tại+tôi+không+còn+theo+đuổi+lập+trình+viên" alt="Typing SVG"> 
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Scientist+/+Cyber+Security" alt="Typing SVG"> 
 </div>
 <div style="text-align: center; color: #36BCF7FF;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Scientist+/+Cyber+Security" alt="Typing SVG"> 
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hiện+tại" alt="Typing SVG"> 
+     <img src="https://readme-typing-svg.herokuapp.com?lines=Hiện+tại" alt="Typing SVG"> 
 </div>
 
 # 💫 About Me: 
