@@ -9,6 +9,7 @@
 # 💫 About Me: 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 - 🇻🇳 : I'm from VietNam
 - 📧 : Contact me at [nguyenchinh34vt@gmail.com](mailto:nguyenchinh34vt@gmail.com)
 - ❤️ : I'm passionate about:
