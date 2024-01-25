@@ -10,14 +10,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🇻🇳 : I'm from VietNam
-- 📧 : Contact me at [nguyenchinh34vt@gmail.com](mailto:nguyenchinh34vt@gmail.com)
-- ❤️ : I'm passionate about:
-  - 🔐 Cyber Security
-  - 🖥️ Backend Scientist
-  - 🪐 Operating Systems (Windows & Linux)
-  - 🖥️ Website Developer
-  - 📝 Writeups and Documenting
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554115483199) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinh.34) 
