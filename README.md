@@ -33,9 +33,9 @@
 
 ```txt
 CTDL & GT    20hrs 30 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   75.00 %
-Python       20hrs 00 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   05.00 %
-C# Winform   16hrs 4 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   10.00 %
-Relax        10hrs 30 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   05.00 %
+Java         20hrs 00 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   05.00 %
+Python       16hrs 4 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   10.00 %
+C# Winform   10hrs 30 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   05.00 %
 Linux        1hrs 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
