@@ -25,9 +25,9 @@
 
 ```txt
 DSA          31hrs 12 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   45.00 %
-Java         20hrs 00 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   35.00 %
-PHP          10hrs 40 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   10.00 %
-C# Winform   10hrs 30 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   05.00 %
+English      20hrs 00 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   35.00 %
+C# Winform   10hrs 40 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   10.00 %
+Android      10hrs 30 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   05.00 %
 Linux        1hrs 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
