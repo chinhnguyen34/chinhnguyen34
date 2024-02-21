@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Eunjin's%20Github&fontSize=50)
 
 <div style="text-align: center; color: #36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+!!!+I'm+Chính" alt="Typing SVG">
