@@ -6,8 +6,7 @@
 <div style="text-align: center; color: #36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Scientist+/+Cyber+Security" alt="Typing SVG"> 
 </div>
-# 💫 About Me: 
-Think fast 😊
+Think fast 💫
 
 
 ## 🌐 Socials:
