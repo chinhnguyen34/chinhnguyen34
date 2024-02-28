@@ -5,9 +5,8 @@
 <div style="text-align: center; color: #36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Scientist+/+Cyber+Security" alt="Typing SVG"> 
 </div>
-<div style="font-size: 24px; text-align: center;">
-    𝓣𝓱𝓲𝓷𝓴 𝓕𝓪𝓼𝓽 💫
-</div>
+𝓣𝓱𝓲𝓷𝓴 𝓕𝓪𝓼𝓽 💫
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554115483199) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinh.34) 
