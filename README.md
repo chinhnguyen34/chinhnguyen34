@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Chinh's%20Github&fontSize=50)
 <h3 align="center">Hey there, I'm <a href="https://github.com/chinhnguyen34">chinhnguyen34</a></h3>
+<h3 align="center"> 𝓣𝓱𝓲𝓷𝓴 𝓕𝓪𝓼𝓽 💫</a></h3>
 <div style="text-align: center; color: #36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+!!!+I'm+Chính" alt="Typing SVG">
 </div>
 <div style="text-align: center; color: #36BCF7FF;">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Scientist+/+Cyber+Security" alt="Typing SVG"> 
 </div>
-𝓣𝓱𝓲𝓷𝓴 𝓕𝓪𝓼𝓽 💫
+
 
 
 ## 🌐 Socials:
