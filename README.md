@@ -14,7 +14,7 @@
 
  <a href="https://github.com/chinhnguyen34"> <img src="https://komarev.com/ghpvc/?username=chinhnguyen34&style=for-the-badge&color=brightgreen"> </a>
 
-# 💻 My knowledge and skills:
+# 💻 what I'm learning and my skills:
 <p align="left"> <a href="https://github.com/chinhnguyen34"><img src="https://skillicons.dev/icons?i=vscode,java,github,mongodb,css,html,js,react,vue,flutter,c,cpp,cs,aws,nodejs,androidstudio,angular,bash,bootstrap,dart,idea,py,php"> </a> </p>
 
 # 📊 GitHub Stats:
