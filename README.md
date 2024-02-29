@@ -3,7 +3,7 @@
 <h3 align="center"> 𝓣𝓱𝓲𝓷𝓴 𝓕𝓪𝓼𝓽 💫</a></h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Chính%20;I%20love%20Programming%20and%20Design&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Chính%20;I%20love%20Programming%20and%20Design;Nice%20to%20meet%20you%20<3&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 
