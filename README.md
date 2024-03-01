@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Chinh's%20Github&fontSize=50)
 <h3 align="center">Hey there, I'm <a href="https://github.com/chinhnguyen34">chinhnguyen34</a></h3>
-<h3 align="center"> Others think I'm arrogant but actually I'm just passionate. Sorry... </a></h3>
+<h3 align="center"> Others think I'm arrogant but actually I'm just passionate.</a></h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Chính%20;I%20love%20Programming%20and%20Design;Nice%20to%20meet%20you%20<3&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
