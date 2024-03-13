@@ -4,8 +4,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Chính%20;I%20love%20Programming%20and%20Design;Nice%20to%20meet%20you%20<3&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
+Hey!
 Talk to me!
-
+^^
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
