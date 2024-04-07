@@ -7,7 +7,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-I believe it is necessary for me to take some time to reassess my goals and determine my true passions. Really apologize
+I believe it is necessary for me to take some time to reassess my goals and determine my true passions. Really apologize <br>
 -Tôi muốn dành một khoản thời gian cho bản thân để đánh giá lại mục tiêu và xác định niềm đam mê thực sự của mình. Thực sự xin lỗi-
  
 # 💻 what I'm learning and my skills:
