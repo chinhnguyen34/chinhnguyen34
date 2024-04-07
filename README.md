@@ -7,7 +7,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-Tôi nghĩ rằng tôi cần một khoảng thời gian nhìn nhận lại tôi đang theo đuổi điều gì. Và thật sự tôi thích cái gì 
+I believe it is necessary for me to take some time to reassess my goals and determine my true passions. Really apologize
  
 # 💻 what I'm learning and my skills:
 <p align="left"> <a href="https://github.com/chinhnguyen34"><img src="https://skillicons.dev/icons?i=vscode,java,github,mongodb,css,html,js,react,vue,flutter,c,cpp,cs,aws,nodejs,androidstudio,angular,bash,bootstrap,dart,idea,py,php"> </a> </p>
