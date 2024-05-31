@@ -11,12 +11,7 @@
 # 💻 what I'm learning and my skills:
 <p align="left"> <a href="https://github.com/chinhnguyen34"><img src="https://skillicons.dev/icons?i=vscode,java,github,mongodb,css,html,js,react,vue,flutter,c,cpp,cs,aws,nodejs,androidstudio,angular,bash,bootstrap,dart,idea,py,php"> </a> </p>
 
-# 📊 GitHub Stats:
-<div align="center">
-    
-[<img src="https://github-readme-stats.vercel.app/api?username=chinhnguyen34&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="150">](https://github-readme-stats.vercel.app/api?username=chinhnguyen34)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinhnguyen34&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150">](https://github-readme-stats.vercel.app/api/top-langs/?username=chinhnguyen34)
-</div>
+
 
 ## 🏆 GitHub Trophies
 <a href="https://github-profile-trophy.vercel.app/?username=chinhnguyen34" target="_blank">
