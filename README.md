@@ -7,7 +7,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ╥﹏╥
-# 💻 what I'm learning and my skills:
+
+# 💻 I show you these are the things I'm researching and also the things I'm most confident about:
 <p align="left"> <a href="https://github.com/chinhnguyen34"><img src="https://skillicons.dev/icons?i=vscode,java,github,mongodb,css,html,js,react,vue,flutter,c,cpp,cs,aws,nodejs,androidstudio,angular,bash,bootstrap,dart,idea,py,php"> </a> </p>
 
 
