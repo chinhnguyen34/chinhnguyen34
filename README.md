@@ -12,7 +12,6 @@
 <p align="left"> <a href="https://github.com/chinhnguyen34"><img src="https://skillicons.dev/icons?i=vscode,java,github,mongodb,css,html,js,react,vue,flutter,c,cpp,cs,aws,nodejs,androidstudio,angular,bash,bootstrap,dart,idea,py,php"> </a> </p>
 
 
-
 ## 🏆 GitHub Trophies
 <a href="https://github-profile-trophy.vercel.app/?username=chinhnguyen34" target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
