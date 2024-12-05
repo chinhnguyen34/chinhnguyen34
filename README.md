@@ -15,7 +15,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34">
-          <img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -25,9 +25,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-     <a href="https://github.com/chinhnguyen34/demo-music-player"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinhnguyen34&repo=demo-music-player&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/chinhnguyen34/C-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinhnguyen34&repo=C-&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/chinhnguyen34/300-days-Algorithm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinhnguyen34&repo=300-days-Algorithm&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/chinhnguyen34/demo-music-player"><img width="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinhnguyen34&repo=demo-music-player&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/chinhnguyen34/C-"><img width="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinhnguyen34&repo=C-&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/chinhnguyen34/300-days-Algorithm"><img width="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chinhnguyen34&repo=300-days-Algorithm&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
