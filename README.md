@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&fontAlign=50&textBg=false&fontSize=20&animation=twinkling&stroke=666664&fontColor=454544&fontAlignY=40)
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Chính%20;I'm%20WEB%20DEVELOPER&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
-
-
 # 
 <p align="left"> <a href="https://github.com/chinhnguyen34"><img src="https://skillicons.dev/icons?i=vscode,java,github,mongodb,css,html,js,react,vue,flutter,c,cpp,cs,aws,nodejs,androidstudio,angular,bash,bootstrap,dart,idea,py,php"> </a> </p>
 
