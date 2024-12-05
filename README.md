@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&reversal=false&fontAlign=50&textBg=false)
+![header](https://capsulerender.vercel.app/apitype=venom&height=200&color=gradient&text=CHINH%20NGUYEN&reversal=false&fontAlign=50&textBg=false&fontSize=30&animation=fadeIn&strokeWidth=1&stroke=9460a6&fontColor=411f5c)
+
 <h3 align="center">Hey there, I'm <a href="https://github.com/chinhnguyen34">chinhnguyen34</a></h3>
 
 <p align="center">
