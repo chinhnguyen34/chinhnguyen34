@@ -15,7 +15,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34">
-          <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
