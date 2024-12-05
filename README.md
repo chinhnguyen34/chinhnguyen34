@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=CHINH%20NGUYEN&reversal=false&fontAlign=50&textBg=false&fontSize=20&animation=twinkling&stroke=a1a09f&fontColor=454544&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&fontAlign=50&textBg=false&fontSize=20&animation=twinkling&stroke=666664&fontColor=454544&fontAlignY=40)
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/chinhnguyen34">chinhnguyen34</a></h3>
 
