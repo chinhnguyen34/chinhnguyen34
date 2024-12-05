@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20&fontSize=10000)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20&fontSize=50](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&reversal=false&fontAlign=50&textBg=false))
 <h3 align="center">Hey there, I'm <a href="https://github.com/chinhnguyen34">chinhnguyen34</a></h3>
 
 <p align="center">
