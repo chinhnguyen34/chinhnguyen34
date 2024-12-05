@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&fontAlign=50&textBg=false&fontSize=20&animation=twinkling&stroke=666664&fontColor=454544&fontAlignY=40)
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/chinhnguyen34">chinhnguyen34</a></h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Chính%20;I'm%20WEB%20DEVELOPER&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
