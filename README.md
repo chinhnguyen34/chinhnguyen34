@@ -6,7 +6,7 @@
 
 ## 🏆 GitHub Trophies
 <a href="https://github-profile-trophy.vercel.app/?username=chinhnguyen34" target="_blank">
-  <img width="200" src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
 </a>
 
 ### 📈 User Statistics
