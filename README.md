@@ -6,7 +6,7 @@
 
 ## 🏆 GitHub Trophies
 <a href="https://github-profile-trophy.vercel.app/?username=chinhnguyen34" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
+  <img width="200" src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
 </a>
 
 ### 📈 User Statistics
@@ -15,7 +15,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34">
-          <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
