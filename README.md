@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=been%20doin'%20my%20thing&fontSize=30&fontAlignY=40&animation=twinkling&strokeWidth=0&fontColor=e3e3e3&stroke=e3e3e3)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Chính%20;I'm%20WEB%20DEVELOPER&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
