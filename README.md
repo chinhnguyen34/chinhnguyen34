@@ -3,8 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Chính%20;I'm%20WEB%20DEVELOPER&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 GitHub Trophies
 <a href="https://github-profile-trophy.vercel.app/?username=chinhnguyen34" target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
