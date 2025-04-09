@@ -15,20 +15,22 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34">
-          <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=chinhnguyen34&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true"/>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
 <table>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake-dark.svg" />
+    </picture>
+  </div>
+</table>
 <br>
 
   
