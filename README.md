@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient)
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=&center=true&width=435&lines=Hello+i'm+Chi%CC%81nh;I'm+Programmer" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&multiline=true&height=40&lines=Hello+i'm+Chi%CC%81nh;I'm+Programmer" alt="Typing SVG" /></a>
 </p>
 
 <a href="https://github-profile-trophy.vercel.app/?username=chinhnguyen34" target="_blank">
