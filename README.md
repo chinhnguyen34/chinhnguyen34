@@ -1,8 +1,8 @@
-<h1 align="center">🖐️ Senior Full Stack Developer 🖐️</h1> 
+<h1 align="center">🖐️ Mobile App Developer 🖐️</h1> 
 <br />
 <h1 align="center"> Achievements </h1>
 <p align="center">
-  <a href="https://github.com/denysmalieiev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=denysmalieiev&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@denysmalieiev's trophy stats"/></a>
+  <a href="https://github.com/chinhnguyen34?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@chinhnguyen34's trophy stats"/></a>
 </p>
 <table align="center">
 
