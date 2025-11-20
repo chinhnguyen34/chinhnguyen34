@@ -16,8 +16,8 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
+      <br>Java
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
@@ -50,12 +50,16 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="Ruby" />
+      <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
-      <br>GoLang
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" alt="Kotlin " width="45" height="45"/>
+      <br>Kotlin
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
@@ -64,10 +68,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
       <br>Nest.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
@@ -86,18 +86,18 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" alt="icon" width="55" height="55" />
+      <br>Swift
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" height="45" >
+      <br>Supabase
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="45" >
+      <br>Postman
     </td>
     <td align="center" width="90">
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
@@ -108,35 +108,35 @@
       <br>Solana
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="Solidity" />
+      <br>Php
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="45" height="45" alt="Rust" />
+      <br>NodeJS
     </td>
     <td align="center" width="90">
-      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
-      <br>Anchor
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="45" height="45" alt="rails" />
+      <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="./foundry.png" alt="icon" width="55" height="55" />
-      <br>Foundry
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="45" height="45" alt="Rust" />
+      <br>Dart
     </td>
     <td align="center" width="90">
-      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
-      <br>HardHat
+      <img src="https://skillicons.dev/icons?i=rxjava" width="45" height="45" alt="rails" />
+      <br>RxJava
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="45" height="45" alt="rails" />
+      <br>Figma
     </td>
   </tr>
 </table>
 <br/>
 
  <p align="center">
-  <img src="https://github.com/denysmalieiev/chinhnguyen34/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
+  <img src="https://github.com/chinhnguyen34/chinhnguyen34/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
 </p> 
 <p align="center">
   <a href="https://github.com/chinhnguyen34/github-readme-stats">
