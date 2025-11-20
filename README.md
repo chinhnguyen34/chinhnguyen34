@@ -3,7 +3,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&lines=Hello+i'm+Chi%CC%81nh;I'm+Programmer" alt="Typing SVG" /></a>
 </p> -->
 
-<table align="center">
+<!-- <table align="center">
   <tbody>
     <tr>
       <td>
@@ -13,7 +13,7 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <table>
   <div align="center">
