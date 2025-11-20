@@ -1,11 +1,13 @@
 <h1 align="center">🖐️ Mobile App Developer 🖐️</h1> 
 <br />
 <h1 align="center"> Achievements </h1>
-<p align="center">
-  <a href="https://github.com/chinhnguyen34?tab=achievements"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@chinhnguyen34's trophy stats"/>
-  </a>
-</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
+</a>
+
 <table align="center">
 
   <tr>
