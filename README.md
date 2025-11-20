@@ -3,11 +3,6 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&lines=Hello+i'm+Chi%CC%81nh;I'm+Programmer" alt="Typing SVG" /></a>
 </p>
 
-<a href="https://github-profile-trophy.vercel.app/?username=chinhnguyen34" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinhnguyen34&theme=radical&margin-w=4&margin-h=4">
-</a>
-
-
 <table align="center">
   <tbody>
     <tr>
