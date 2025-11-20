@@ -137,17 +137,3 @@
 </table>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/chinhnguyen34/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chinhnguyen34&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
-  </a>
-  <a href="https://github.com/chinhnguyen34/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
-</p>
-<div align="left">
-
-<br clear ="both" >
