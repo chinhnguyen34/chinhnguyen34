@@ -135,14 +135,14 @@
 </table>
 <br/>
 
-<!-- <p align="center">
-  <img src="https://github.com/denysmalieiev/denysmalieiev/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
-</p> -->
+ <p align="center">
+  <img src="https://github.com/denysmalieiev/chinhnguyen34/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
+</p> 
 <p align="center">
-  <a href="https://github.com/denysmalieiev/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=denysmalieiev&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
+  <a href="https://github.com/chinhnguyen34/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chinhnguyen34&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
   </a>
-  <a href="https://github.com/denysmalieiev/convoychat">
+  <a href="https://github.com/chinhnguyen34/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
