@@ -135,9 +135,6 @@
 </table>
 <br/>
 
- <p align="center">
-  <img src="https://github.com/chinhnguyen34/chinhnguyen34/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
-</p> 
 <p align="center">
   <a href="https://github.com/chinhnguyen34/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chinhnguyen34&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
